@@ -1,1 +1,1 @@
-# CSE-424-Pattern-Recognition: INDIVIDUAL SUBMISSION-1/16301125
+# CSE-424-Pattern-Recognition: individual submission-1/16301125
